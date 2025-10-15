@@ -3,8 +3,8 @@
 🔹 **Artificial Intelligence in Criminal Justice**  
 **Fair Jury Selection & Deliberation**
 
-**Authors:** Leona Joseph, Mandira Sawkar, Dr. Mihail Barbosu  
-**Institution:** Rochester Institute of Technology (MSAI Program)
+**Authors:** Leona Joseph, Mandira Sawkar, Shrid Pant  
+**Institution:** Rochester Institute of Technology (MS AI Program)
 
 ---
 
@@ -71,3 +71,4 @@
 🔹 **Poster**
 
   The detailed research poster can be found [here](./Poster.pdf)
+
